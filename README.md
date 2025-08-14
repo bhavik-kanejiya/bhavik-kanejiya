@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Bhavik Kanejiya, a cybersecurity professional with expertise in penetration testing and security consulting. With a track record of 1 year in the field, I'm passionate about helping organisations fortify their digital defenses.
+Hello! I'm Bhavik Kanejiya, a cybersecurity professional with expertise in penetration testing and security consulting. With a track record of 2 year in the field, I'm passionate about helping organisations fortify their digital defenses.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavik-kanejiya/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bhavikkanejiya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bhavik_kanejiya) 
